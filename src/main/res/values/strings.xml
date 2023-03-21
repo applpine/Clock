@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">clock</string>
+    <string name="login_by_password">密码登录</string>
+    <string name="login_by_verifycode">验证码登录</string>
+    <string name="phone_number">手机号码：</string>
+    <string name="input_phone_number">请输入手机号码</string>
+    <string name="login_password">登录密码：</string>
+    <string name="input_password">请输入密码</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="remember_password">记住密码</string>
+    <string name="login">登&#160; &#160; &#160; 录</string>
+
+    <string name="input_new_password_hint">请输入密码</string>
+    <string name="confirm_new_password">确认新密码：</string>
+    <string name="input_new_password_again">请再次输入新密码</string>
+    <string name="verifycode">&#160; &#160; 验证码：</string>
+    <string name="verifycode2">&#160; &#160; &#160; &#160; 验证码：</string>
+    <string name="input_verifycode">请输入验证码</string>
+    <string name="get_verifycode">获取验证码</string>
+    <string name="done">确&#160; &#160; &#160;定</string>
+
+    <string name="zhuce">注&#160; &#160; &#160; 册</string>
+    <string name="user_name">用户姓名：</string>
+    <string name="input_user_name">请输入用户姓名</string>
+    <string name="user_id">用户ID: &#160;    &#160;</string>
+    <string name="input_user_id">请输入用户ID</string>
+    <string name="user_class">用户班级：</string>
+    <string name="input_user_class">请输入用户班级</string>
+    <string name="new_password">用户密码：</string>
+    <string name="input_new_password">请输入用户密码</string>
+    <string name="user">用户</string>
+    <string name="time">日期</string>
+    <string name="day">坚持天数</string>
+    <string name="most_day">连续最长天数</string>
+    <string name="key_word">每日关键字</string>
+    <string name="summary">每日总结</string>
+    <string name="input_key_word">请输入关键字</string>
+    <string name="input_summary">请输入总结</string>
+    <string name="clock">打&#160; &#160; &#160;卡</string>
+    <string name="book">每&#160;日 &#160;记 &#160;事 &#160;本</string>
+    <string name="back">返&#160; &#160; &#160;回</string>
+    <string name="teacher">教&#160;师 &#160;登 &#160;录</string>
+    <string name="teacher_name">教师姓名：</string>
+    <string name="input_teacher_name">请输入教师姓名</string>
+    <string name="input_word">请输入关键字</string>
+    <string name="find">搜&#160; &#160; &#160; 索</string>
+</resources>
